@@ -1,0 +1,5 @@
+{
+  "name": "VIT-AP University Portal",
+  "description": "A responsive university portal homepage for VIT-AP University, providing login access for students, employees, parents, and alumni, along with key information and spotlights.",
+  "requestFramePermissions": []
+}
